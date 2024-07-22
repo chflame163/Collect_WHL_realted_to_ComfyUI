@@ -44,3 +44,8 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 | llama-cpp-python|   |
 |-------------------|---|
 | windows, linux |[github.com/abetlen](https://github.com/abetlen/llama-cpp-python/releases)|
+
+##
+| deepspeed |                                                                                |
+|------|--------------------------------------------------------------------------------|
+|windows| [github.com/S95Sedan/Deepspeed-Windows](https://github.com/S95Sedan/Deepspeed-Windows/releases) |
