@@ -1,6 +1,15 @@
 # Collect_WHL_realted_to_ComfyUI
 
 Collect some WHL resources related to ComfyUI, update irregularly.
+
+
+
+##
+| CUDA Driver       ||
+|-------------------|----------------------------------------------------------|
+| windows and linux |[developer.nvidia.com](https://developer.nvidia.com/cuda-toolkit-archive)|
+
+
 ##
 | torch, touchaudio, torchvision ||
 |--------------------------------|----------------------------------------------------------|
