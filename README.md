@@ -68,3 +68,9 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 | cupy           |                                                          |
 |----------------|----------------------------------------------------------|
 | windows, linux | [github.com/cupy](https://github.com/cupy/cupy/releases) |
+
+
+##
+| triton         |                                                          |
+|----------------|----------------------------------------------------------|
+| windows | [github.com/woct0rdho](https://github.com/woct0rdho/triton-windows/releases) |
