@@ -13,6 +13,9 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 ##
 | torch, touchaudio, torchvision |                                                                                            |
 |--------------------------------|--------------------------------------------------------------------------------------------|
+| torch cu126                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu126/torch/)              |    
+| torchaudio cu126               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu126/torchaudio/)    |    
+| torchvision cu126             | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu126/torchvision/) |
 | torch cu124                    | [pytorch.org/whl/cu124/torch/](https://download.pytorch.org/whl/cu124/torch/)              |    
 | torchaudio cu124               | [pytorch.org/whl/cu124/torchaudio/](https://download.pytorch.org/whl/cu124/torchaudio/)    |    
 | torchvision cu124              | [pytorch.org/whl/cu124/torchvision/](https://download.pytorch.org/whl/cu124/torchvision/)  |                                                      
@@ -23,6 +26,9 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 | torchaudio cu118               | [pytorch.org/whl/cu118/torchaudio/](https://download.pytorch.org/whl/cu118/torchaudio/)    |    
 | torchvision cu118              | [pytorch.org/whl/cu118/torchvision/](https://download.pytorch.org/whl/cu118/torchvision/)  |
     
+* torch 2.7.x + torchaudio 2.7.x + torchvision 0.22.x
+* torch 2.6.x + torchaudio 2.6.x + torchvision 0.21.x
+* torch 2.5.x + torchaudio 2.5.x + torchvision 0.20.x
 * torch 2.4.x + torchaudio 2.4.x + torchvision 0.19.x
 * torch 2.3.x + torchaudio 2.3.x + torchvision 0.18.x
 * torch 2.2.x + torchaudio 2.2.x + torchvision 0.17.x
@@ -74,3 +80,9 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 | triton         |                                                          |
 |----------------|----------------------------------------------------------|
 | windows | [github.com/woct0rdho](https://github.com/woct0rdho/triton-windows/releases) |
+
+##
+| naten   |                                                          |
+|---------|----------------------------------------------------------|
+| windows | [huggingface.co/2kpr/NATTEN-Windows](https://huggingface.co/2kpr/NATTEN-Windows/tree/main) |
+| linux   | [shi-labs.com/natten](https://shi-labs.com/natten/wheels/) |
