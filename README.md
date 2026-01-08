@@ -13,9 +13,18 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 ##
 | torch, touchaudio, torchvision |                                                                                            |
 |--------------------------------|--------------------------------------------------------------------------------------------|
+| torch cu130                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu130/torch/)              |    
+| torchaudio cu130               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu130/torchaudio/)    |    
+| torchvision cu130              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu130/torchvision/)  |
+| torch cu129                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu129/torch/)              |    
+| torchaudio cu129               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu129/torchaudio/)    |    
+| torchvision cu129              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu129/torchvision/)  |
+| torch cu128                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu128/torch/)              |    
+| torchaudio cu128               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu128/torchaudio/)    |    
+| torchvision cu128              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu128/torchvision/) |
 | torch cu126                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu126/torch/)              |    
 | torchaudio cu126               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu126/torchaudio/)    |    
-| torchvision cu126             | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu126/torchvision/) |
+| torchvision cu126              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu126/torchvision/) |
 | torch cu124                    | [pytorch.org/whl/cu124/torch/](https://download.pytorch.org/whl/cu124/torch/)              |    
 | torchaudio cu124               | [pytorch.org/whl/cu124/torchaudio/](https://download.pytorch.org/whl/cu124/torchaudio/)    |    
 | torchvision cu124              | [pytorch.org/whl/cu124/torchvision/](https://download.pytorch.org/whl/cu124/torchvision/)  |                                                      
@@ -26,6 +35,8 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 | torchaudio cu118               | [pytorch.org/whl/cu118/torchaudio/](https://download.pytorch.org/whl/cu118/torchaudio/)    |    
 | torchvision cu118              | [pytorch.org/whl/cu118/torchvision/](https://download.pytorch.org/whl/cu118/torchvision/)  |
     
+* torch 2.9.x + torchaudio 2.9.x + torchvision 0.24.x
+* torch 2.8.x + torchaudio 2.8.x + torchvision 0.23.x
 * torch 2.7.x + torchaudio 2.7.x + torchvision 0.22.x
 * torch 2.6.x + torchaudio 2.6.x + torchvision 0.21.x
 * torch 2.5.x + torchaudio 2.5.x + torchvision 0.20.x
@@ -47,7 +58,7 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 ##
 |insightface||
 |---------|----------------------------------------------------------|
-|windows|[huggingface.co/hanamizuki-ai](https://huggingface.co/hanamizuki-ai/insightface-releases/tree/main)|
+|windows|[github.com/Gourieff](https://github.com/Gourieff/Assets/tree/main/Insightface)|
 
 ##
 |dlib||
