@@ -11,30 +11,36 @@ Collect some WHL resources related to ComfyUI, update irregularly.
 
 
 ##
-| torch, touchaudio, torchvision |                                                                                            |
-|--------------------------------|--------------------------------------------------------------------------------------------|
-| torch cu130                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu130/torch/)              |    
-| torchaudio cu130               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu130/torchaudio/)    |    
-| torchvision cu130              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu130/torchvision/)  |
-| torch cu129                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu129/torch/)              |    
-| torchaudio cu129               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu129/torchaudio/)    |    
-| torchvision cu129              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu129/torchvision/)  |
-| torch cu128                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu128/torch/)              |    
-| torchaudio cu128               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu128/torchaudio/)    |    
-| torchvision cu128              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu128/torchvision/) |
-| torch cu126                    | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu126/torch/)              |    
-| torchaudio cu126               | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu126/torchaudio/)    |    
-| torchvision cu126              | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu126/torchvision/) |
-| torch cu124                    | [pytorch.org/whl/cu124/torch/](https://download.pytorch.org/whl/cu124/torch/)              |    
-| torchaudio cu124               | [pytorch.org/whl/cu124/torchaudio/](https://download.pytorch.org/whl/cu124/torchaudio/)    |    
-| torchvision cu124              | [pytorch.org/whl/cu124/torchvision/](https://download.pytorch.org/whl/cu124/torchvision/)  |                                                      
-| torch cu121                    | [pytorch.org/whl/cu121/torch/](https://download.pytorch.org/whl/cu121/torch/)              |    
-| torchaudio cu121               | [pytorch.org/whl/cu121/torchaudio/](https://download.pytorch.org/whl/cu121/torchaudio/)    |    
-| torchvision cu121              | [pytorch.org/whl/cu121/torchvision/](https://download.pytorch.org/whl/cu121/torchvision/)  |
-| troch cu118                    | [pytorch.org/whl/cu118/torch/](https://download.pytorch.org/whl/cu118/torch/)              |    
-| torchaudio cu118               | [pytorch.org/whl/cu118/torchaudio/](https://download.pytorch.org/whl/cu118/torchaudio/)    |    
-| torchvision cu118              | [pytorch.org/whl/cu118/torchvision/](https://download.pytorch.org/whl/cu118/torchvision/)  |
+| torch, touchaudio, torchvision  |                                                                                             |
+|---------------------------------|---------------------------------------------------------------------------------------------|
+| torch cu132                     | [pytorch.org/whl/cu132/torch/](https://download.pytorch.org/whl/cu132/torch/)               |
+| torchaudio cu132                | [pytorch.org/whl/cu132/torchaudio/](https://download.pytorch.org/whl/cu132/torchaudio/)     |    
+| torchvision cu132               | [pytorch.org/whl/cu132/torchvision/](https://download.pytorch.org/whl/cu132/torchvision/)   |
+| torch cu130                     | [pytorch.org/whl/cu130/torch/](https://download.pytorch.org/whl/cu130/torch/)               |    
+| torchaudio cu130                | [pytorch.org/whl/cu130/torchaudio/](https://download.pytorch.org/whl/cu130/torchaudio/)     |    
+| torchvision cu130               | [pytorch.org/whl/cu130/torchvision/](https://download.pytorch.org/whl/cu130/torchvision/)   |
+| torch cu129                     | [pytorch.org/whl/cu129/torch/](https://download.pytorch.org/whl/cu129/torch/)               |    
+| torchaudio cu129                | [pytorch.org/whl/cu129/torchaudio/](https://download.pytorch.org/whl/cu129/torchaudio/)     |    
+| torchvision cu129               | [pytorch.org/whl/cu129/torchvision/](https://download.pytorch.org/whl/cu129/torchvision/)   |
+| torch cu128                     | [pytorch.org/whl/cu128/torch/](https://download.pytorch.org/whl/cu128/torch/)               |    
+| torchaudio cu128                | [pytorch.org/whl/cu128/torchaudio/](https://download.pytorch.org/whl/cu128/torchaudio/)     |    
+| torchvision cu128               | [pytorch.org/whl/cu128/torchvision/](https://download.pytorch.org/whl/cu128/torchvision/)   |
+| torch cu126                     | [pytorch.org/whl/cu126/torch/](https://download.pytorch.org/whl/cu126/torch/)               |    
+| torchaudio cu126                | [pytorch.org/whl/cu126/torchaudio/](https://download.pytorch.org/whl/cu126/torchaudio/)     |    
+| torchvision cu126               | [pytorch.org/whl/cu126/torchvision/](https://download.pytorch.org/whl/cu126/torchvision/)   |
+| torch cu124                     | [pytorch.org/whl/cu124/torch/](https://download.pytorch.org/whl/cu124/torch/)               |    
+| torchaudio cu124                | [pytorch.org/whl/cu124/torchaudio/](https://download.pytorch.org/whl/cu124/torchaudio/)     |    
+| torchvision cu124               | [pytorch.org/whl/cu124/torchvision/](https://download.pytorch.org/whl/cu124/torchvision/)   |                                                      
+| torch cu121                     | [pytorch.org/whl/cu121/torch/](https://download.pytorch.org/whl/cu121/torch/)               |    
+| torchaudio cu121                | [pytorch.org/whl/cu121/torchaudio/](https://download.pytorch.org/whl/cu121/torchaudio/)     |    
+| torchvision cu121               | [pytorch.org/whl/cu121/torchvision/](https://download.pytorch.org/whl/cu121/torchvision/)   |
+| troch cu118                     | [pytorch.org/whl/cu118/torch/](https://download.pytorch.org/whl/cu118/torch/)               |    
+| torchaudio cu118                | [pytorch.org/whl/cu118/torchaudio/](https://download.pytorch.org/whl/cu118/torchaudio/)     |    
+| torchvision cu118               | [pytorch.org/whl/cu118/torchvision/](https://download.pytorch.org/whl/cu118/torchvision/)   |
     
+
+* torch 2.11.x + torchaudio 2.11.x + torchvision 0.26.x
+* torch 2.10.x + torchaudio 2.10.x + torchvision 0.25.x
 * torch 2.9.x + torchaudio 2.9.x + torchvision 0.24.x
 * torch 2.8.x + torchaudio 2.8.x + torchvision 0.23.x
 * torch 2.7.x + torchaudio 2.7.x + torchvision 0.22.x
